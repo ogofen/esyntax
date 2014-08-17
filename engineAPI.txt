@@ -99,7 +99,6 @@ GetDeviceListVDS|
 |TryBackToSnapshot|
 |StopVm|
 |CreateSnapshot|
-|Command|
 |TryBackToAllSnapshotsOfVm|
 |ExtendImageSize|
 |DestroyImageVDS|
