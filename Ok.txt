@@ -1,4 +1,5 @@
 SUCCESS|
+|WARN|
 |DEBUG|
 |True|
 |INFO|
